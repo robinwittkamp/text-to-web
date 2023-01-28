@@ -4,7 +4,7 @@ import Header from './Header';
 
 const PageLayout = ({ children }) => (
   <main className="flex h-screen w-full min-w-[20rem] flex-col">
-    <Header />
+    {/* <Header /> */}
     {children}
   </main>
 );
