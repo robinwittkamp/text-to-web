@@ -266,7 +266,7 @@ const Home = () => {
       </div>
 
       {/* Input - Card */}
-      <div className="fixed bottom-4 left-1/2 flex h-56 w-full max-w-4xl -translate-x-1/2 flex-col rounded-3xl border border-neutral-200 bg-white p-4 shadow-lg dark:border-neutral-700 dark:bg-neutral-800 md:p-5">
+      <div className="fixed bottom-8 left-1/2 flex h-56 w-full max-w-4xl -translate-x-1/2 flex-col rounded-3xl border border-neutral-200 bg-white p-4 shadow-lg dark:border-neutral-700 dark:bg-neutral-800 md:p-5">
         {/* Two rows container */}
         <div className="flex flex-1 flex-col">
           {/* Textarea & Speech button */}
